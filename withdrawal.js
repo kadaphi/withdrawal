@@ -395,7 +395,4 @@ app.get("/bnb",async (req,res) => {
     }
 });
 bot.launch();
-const port = 300;
-app.listen(port, () => {
-  console.log("Running on port: "+ port);
-});
+
