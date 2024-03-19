@@ -6,11 +6,11 @@ const bot = new Telegraf('6916977913:AAFRVqXCFR4XLAbDBn8K3ITjaQjQ9Djids8');
 let admin;//6354552851
 admin = "@forexfactorypayout";
 const url = "http://62.72.24.208:300";
-const btc_time = 2220000 //1000 = 1 secs
+const btc_time = 300000 //1000 = 1 secs
 const trx_time = 840000 //1000 = 1 secs
-const usdt_time= 1350000 //1000 = 1 secs
-const eth_time = 1500000 //1000 = 1 secs
-const bnb_time = 900000 //1000 = 1 secs
+const usdt_time= 600000 //1000 = 1 secs
+const eth_time = 420000 //1000 = 1 secs
+const bnb_time = 540000 //1000 = 1 secs
 
 
 
